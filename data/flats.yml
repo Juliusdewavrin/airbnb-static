@@ -1,0 +1,48 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: https://unsplash.it/1500/1500?image=947
+  owner_picture: https://unsplash.it/200/200?image=996
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+romain:
+  owner_name: Romain Paillard
+  picture: https://unsplash.it/1500/1500?image=946
+  owner_picture: https://unsplash.it/200/200?image=1062
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+Julius:
+  owner_name: Julius Dewavrin
+  picture: https://unsplash.it/1500/1500?image=939
+  owner_picture: https://unsplash.it/200/200?image=1074
+  name: Julius's home
+  summary: Pretty flat near Carreau du temple
+  city: Paris, FR
+  wifi: true
+Leo:
+  owner_name: Leo Vannier
+  picture: https://unsplash.it/1500/1500?image=899
+  owner_picture: https://unsplash.it/200/200?image=1066
+  name: leo's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+Guillaume:
+  owner_name: Guillaume caullier
+  picture: https://unsplash.it/1500/1500?image=588
+  owner_picture: https://unsplash.it/200/200?image=1027
+  name: Guillaume's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+Alexis:
+  owner_name: Alexis Quesnet
+  picture: https://unsplash.it/1500/1500?image=522
+  owner_picture: https://unsplash.it/200/200?image=1005
+  name: Alexis's home
+  summary: Pretty flat near Carreau du temple
+  city: Paris, FR
+  wifi: true
